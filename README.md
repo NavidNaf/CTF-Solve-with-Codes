@@ -7,3 +7,4 @@ This repository is where I store my codes to solve CTF problems. It captures one
 | v1     | kshackzone | Cryptography, Programming    |
 | v1     | picoCTF    | General skills               |
 | v1     | misc-ctf-comps | Cryptography              |
+| v1     | tryhackme  | Cryptography                 |
