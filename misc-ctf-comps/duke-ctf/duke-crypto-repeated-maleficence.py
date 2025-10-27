@@ -1,3 +1,6 @@
+# This script decrypts a ciphertext encrypted with a repeating-key XOR cipher. It leverages a known plaintext prefix to derive the encryption key. 
+# The script reads the ciphertext from 'encrypted.txt', derives the key, and outputs both the key and the decrypted plaintext.
+
 import binascii
 import string
 
