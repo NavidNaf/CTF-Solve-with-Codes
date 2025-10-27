@@ -1,3 +1,6 @@
+# this code recovers the FLAG from the provided ciphertexts using XOR properties
+# in details, it uses the known plaintext attack on a stream cipher implementation
+
 import sys
 
 def xor_bytes(a: bytes, b: bytes) -> bytes:
